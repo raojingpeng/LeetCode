@@ -415,7 +415,7 @@ class LeetCode:
 
 :heart: Auto created by [leetcode_generate](https://github.com/raojingpeng/LeetCode/blob/master/leetcode_generate.py)
 
-If you have any question, please give me an [issue]({repo}/issues)
+:heart: If you have any question, please give me an [issue]({repo}/issues)
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|'''.format(
