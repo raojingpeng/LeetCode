@@ -1,4 +1,5 @@
 import configparser
+import datetime
 import html
 import json
 import os
@@ -6,7 +7,6 @@ import re
 import sys
 import time
 from collections import OrderedDict, namedtuple
-import datetime
 
 import requests
 
