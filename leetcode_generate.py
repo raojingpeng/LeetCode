@@ -400,25 +400,25 @@ class LeetCode:
 
     def write_readme(self):
         """Write Readme to current folder"""
-        languages_readme = ','.join([x.capitalize() for x in self.languages])
+        languages_readme = ', '.join([x.capitalize() for x in self.languages])
         md = '''# :pencil2: Leetcode Solutions with {language}
 
-    <p>
-    <img src="https://img.shields.io/badge/User-raojingpeng-purple.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-{num_solved}/{num_total}-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-{ac_easy}-yellow.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-{ac_medium}-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-{ac_hard}-red.svg?" alt="">
-    </p>
+<p>
+<img src="https://img.shields.io/badge/User-raojingpeng-purple.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-{num_solved}/{num_total}-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-{ac_easy}-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-{ac_medium}-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Hard-{ac_hard}-red.svg?" alt="">
+</p>
 
-    Update time:  {tm}
+:heart: Update time:  {tm}
 
-    Auto created by [leetcode_generate](https://github.com/raojingpeng/LeetCode/blob/master/leetcode_generate.py)
+:heart: Auto created by [leetcode_generate](https://github.com/raojingpeng/LeetCode/blob/master/leetcode_generate.py)
 
-    If you have any question, please give me an [issue]({repo}/issues).
+If you have any question, please give me an [issue]({repo}/issues)
 
-    | # | Title | Source Code | Article | Difficulty |
-    |:---:|:---:|:---:|:---:|:---:|'''.format(
+| # | Title | Source Code | Article | Difficulty |
+|:---:|:---:|:---:|:---:|:---:|'''.format(
             language=languages_readme,
             tm=time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())),
             num_solved=self.num_solved,
@@ -444,7 +444,7 @@ class LeetCode:
             else:
                 if item.solutions:
                     dirname = '{folder}/{id}-{title}'.format(
-                        folder=SOLUTION_DIR,
+                        folder='solutions',
                         id=str(item.question_id),
                         title=item.question__title_slug,
                     )
