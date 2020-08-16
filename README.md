@@ -2,13 +2,13 @@
 
 <p>
 <img src="https://img.shields.io/badge/User-raojingpeng-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-125/1749-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-96-yellow.svg?" alt="">
-<img src="https://img.shields.io/badge/Medium-24-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-131/1753-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-101-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-25-green.svg?" alt="">
 <img src="https://img.shields.io/badge/Hard-5-red.svg?" alt="">
 </p>
 
-:heart: Update time:  2020-08-15 17:01:30
+:heart: Update time:  2020-08-16 16:08:44
 
 :heart: Auto created by [leetcode_generate](https://github.com/raojingpeng/LeetCode/blob/master/leetcode_generate.py)
 
@@ -81,7 +81,7 @@
 |63|[unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii)||[:memo:](https://leetcode-cn.com/articles/unique-paths-ii/)|Medium|
 |64|[minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum)||[:memo:](https://leetcode-cn.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode-cn.com/problems/valid-number)||[:memo:](https://leetcode-cn.com/articles/valid-number/)|Hard|
-|66|[plus-one](https://leetcode-cn.com/problems/plus-one)||[:memo:](https://leetcode-cn.com/articles/plus-one/)|Easy|
+|66|[plus-one](https://leetcode-cn.com/problems/plus-one)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/66-plus-one/plus-one.py)|[:memo:](https://leetcode-cn.com/articles/plus-one/)|Easy|
 |67|[add-binary](https://leetcode-cn.com/problems/add-binary)||[:memo:](https://leetcode-cn.com/articles/add-binary/)|Easy|
 |68|[text-justification](https://leetcode-cn.com/problems/text-justification)||[:memo:](https://leetcode-cn.com/articles/text-justification/)|Hard|
 |69|[sqrtx](https://leetcode-cn.com/problems/sqrtx)||[:memo:](https://leetcode-cn.com/articles/sqrtx/)|Easy|
@@ -298,7 +298,7 @@
 |280|[wiggle-sort](https://leetcode-cn.com/problems/wiggle-sort)|:lock:|[:memo:](https://leetcode-cn.com/articles/wiggle-sort/)|Medium|
 |281|[zigzag-iterator](https://leetcode-cn.com/problems/zigzag-iterator)|:lock:|[:memo:](https://leetcode-cn.com/articles/zigzag-iterator/)|Medium|
 |282|[expression-add-operators](https://leetcode-cn.com/problems/expression-add-operators)||[:memo:](https://leetcode-cn.com/articles/expression-add-operators/)|Hard|
-|283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes)||[:memo:](https://leetcode-cn.com/articles/move-zeroes/)|Easy|
+|283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/283-move-zeroes/move-zeroes.py)|[:memo:](https://leetcode-cn.com/articles/move-zeroes/)|Easy|
 |284|[peeking-iterator](https://leetcode-cn.com/problems/peeking-iterator)||[:memo:](https://leetcode-cn.com/articles/peeking-iterator/)|Medium|
 |285|[inorder-successor-in-bst](https://leetcode-cn.com/problems/inorder-successor-in-bst)|:lock:|[:memo:](https://leetcode-cn.com/articles/inorder-successor-in-bst/)|Medium|
 |286|[walls-and-gates](https://leetcode-cn.com/problems/walls-and-gates)|:lock:|[:memo:](https://leetcode-cn.com/articles/walls-and-gates/)|Medium|
@@ -1057,7 +1057,7 @@
 |1084|[find-k-length-substrings-with-no-repeated-characters](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters)|:lock:|[:memo:](https://leetcode-cn.com/articles/find-k-length-substrings-with-no-repeated-characters/)|Medium|
 |1085|[the-earliest-moment-when-everyone-become-friends](https://leetcode-cn.com/problems/the-earliest-moment-when-everyone-become-friends)|:lock:|[:memo:](https://leetcode-cn.com/articles/the-earliest-moment-when-everyone-become-friends/)|Medium|
 |1086|[divisor-game](https://leetcode-cn.com/problems/divisor-game)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/1086-divisor-game/divisor-game.py)|[:memo:](https://leetcode-cn.com/articles/divisor-game/)|Easy|
-|1087|[longest-arithmetic-sequence](https://leetcode-cn.com/problems/longest-arithmetic-sequence)||[:memo:](https://leetcode-cn.com/articles/longest-arithmetic-sequence/)|Medium|
+|1087|[longest-arithmetic-subsequence](https://leetcode-cn.com/problems/longest-arithmetic-subsequence)||[:memo:](https://leetcode-cn.com/articles/longest-arithmetic-subsequence/)|Medium|
 |1088|[number-of-days-in-a-month](https://leetcode-cn.com/problems/number-of-days-in-a-month)|:lock:|[:memo:](https://leetcode-cn.com/articles/number-of-days-in-a-month/)|Easy|
 |1089|[remove-vowels-from-a-string](https://leetcode-cn.com/problems/remove-vowels-from-a-string)|:lock:|[:memo:](https://leetcode-cn.com/articles/remove-vowels-from-a-string/)|Easy|
 |1090|[armstrong-number](https://leetcode-cn.com/problems/armstrong-number)|:lock:|[:memo:](https://leetcode-cn.com/articles/armstrong-number/)|Easy|
@@ -1253,6 +1253,7 @@
 |1290|[make-array-strictly-increasing](https://leetcode-cn.com/problems/make-array-strictly-increasing)||[:memo:](https://leetcode-cn.com/articles/make-array-strictly-increasing/)|Hard|
 |1291|[immediate-food-delivery-i](https://leetcode-cn.com/problems/immediate-food-delivery-i)|:lock:|[:memo:](https://leetcode-cn.com/articles/immediate-food-delivery-i/)|Easy|
 |1292|[immediate-food-delivery-ii](https://leetcode-cn.com/problems/immediate-food-delivery-ii)|:lock:|[:memo:](https://leetcode-cn.com/articles/immediate-food-delivery-ii/)|Medium|
+|1293|[three-consecutive-odds](https://leetcode-cn.com/problems/three-consecutive-odds)||[:memo:](https://leetcode-cn.com/articles/three-consecutive-odds/)|Easy|
 |1296|[kth-ancestor-of-a-tree-node](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node)||[:memo:](https://leetcode-cn.com/articles/kth-ancestor-of-a-tree-node/)|Hard|
 |1297|[maximum-number-of-balloons](https://leetcode-cn.com/problems/maximum-number-of-balloons)||[:memo:](https://leetcode-cn.com/articles/maximum-number-of-balloons/)|Easy|
 |1298|[reverse-substrings-between-each-pair-of-parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses)||[:memo:](https://leetcode-cn.com/articles/reverse-substrings-between-each-pair-of-parentheses/)|Medium|
@@ -1274,7 +1275,7 @@
 |1325|[path-with-maximum-probability](https://leetcode-cn.com/problems/path-with-maximum-probability)||[:memo:](https://leetcode-cn.com/articles/path-with-maximum-probability/)|Medium|
 |1327|[last-person-to-fit-in-the-elevator](https://leetcode-cn.com/problems/last-person-to-fit-in-the-elevator)|:lock:|[:memo:](https://leetcode-cn.com/articles/last-person-to-fit-in-the-elevator/)|Medium|
 |1328|[monthly-transactions-ii](https://leetcode-cn.com/problems/monthly-transactions-ii)|:lock:|[:memo:](https://leetcode-cn.com/articles/monthly-transactions-ii/)|Medium|
-|1329|[play-with-chips](https://leetcode-cn.com/problems/play-with-chips)||[:memo:](https://leetcode-cn.com/articles/play-with-chips/)|Easy|
+|1329|[minimum-cost-to-move-chips-to-the-same-position](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position)||[:memo:](https://leetcode-cn.com/articles/minimum-cost-to-move-chips-to-the-same-position/)|Easy|
 |1330|[longest-arithmetic-subsequence-of-given-difference](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference)||[:memo:](https://leetcode-cn.com/articles/longest-arithmetic-subsequence-of-given-difference/)|Medium|
 |1331|[path-with-maximum-gold](https://leetcode-cn.com/problems/path-with-maximum-gold)||[:memo:](https://leetcode-cn.com/articles/path-with-maximum-gold/)|Medium|
 |1332|[count-vowels-permutation](https://leetcode-cn.com/problems/count-vowels-permutation)||[:memo:](https://leetcode-cn.com/articles/count-vowels-permutation/)|Hard|
@@ -1438,7 +1439,7 @@
 |1525|[queries-on-a-permutation-with-key](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/1525-queries-on-a-permutation-with-key/queries-on-a-permutation-with-key.py)|[:memo:](https://leetcode-cn.com/articles/queries-on-a-permutation-with-key/)|Medium|
 |1526|[html-entity-parser](https://leetcode-cn.com/problems/html-entity-parser)||[:memo:](https://leetcode-cn.com/articles/html-entity-parser/)|Medium|
 |1527|[number-of-ways-to-paint-n-x-3-grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid)||[:memo:](https://leetcode-cn.com/articles/number-of-ways-to-paint-n-x-3-grid/)|Hard|
-|1528|[kids-with-the-greatest-number-of-candies](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies)||[:memo:](https://leetcode-cn.com/articles/kids-with-the-greatest-number-of-candies/)|Easy|
+|1528|[kids-with-the-greatest-number-of-candies](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/1528-kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.py)|[:memo:](https://leetcode-cn.com/articles/kids-with-the-greatest-number-of-candies/)|Easy|
 |1529|[max-difference-you-can-get-from-changing-an-integer](https://leetcode-cn.com/problems/max-difference-you-can-get-from-changing-an-integer)||[:memo:](https://leetcode-cn.com/articles/max-difference-you-can-get-from-changing-an-integer/)|Medium|
 |1530|[check-if-a-string-can-break-another-string](https://leetcode-cn.com/problems/check-if-a-string-can-break-another-string)||[:memo:](https://leetcode-cn.com/articles/check-if-a-string-can-break-another-string/)|Medium|
 |1531|[number-of-ways-to-wear-different-hats-to-each-other](https://leetcode-cn.com/problems/number-of-ways-to-wear-different-hats-to-each-other)||[:memo:](https://leetcode-cn.com/articles/number-of-ways-to-wear-different-hats-to-each-other/)|Hard|
@@ -1497,7 +1498,7 @@
 |1585|[the-kth-factor-of-n](https://leetcode-cn.com/problems/the-kth-factor-of-n)||[:memo:](https://leetcode-cn.com/articles/the-kth-factor-of-n/)|Medium|
 |1586|[longest-subarray-of-1s-after-deleting-one-element](https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element)||[:memo:](https://leetcode-cn.com/articles/longest-subarray-of-1s-after-deleting-one-element/)|Medium|
 |1587|[parallel-courses-ii](https://leetcode-cn.com/problems/parallel-courses-ii)||[:memo:](https://leetcode-cn.com/articles/parallel-courses-ii/)|Hard|
-|1603|[running-sum-of-1d-array](https://leetcode-cn.com/problems/running-sum-of-1d-array)||[:memo:](https://leetcode-cn.com/articles/running-sum-of-1d-array/)|Easy|
+|1603|[running-sum-of-1d-array](https://leetcode-cn.com/problems/running-sum-of-1d-array)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/1603-running-sum-of-1d-array/running-sum-of-1d-array.py)|[:memo:](https://leetcode-cn.com/articles/running-sum-of-1d-array/)|Easy|
 |1604|[least-number-of-unique-integers-after-k-removals](https://leetcode-cn.com/problems/least-number-of-unique-integers-after-k-removals)||[:memo:](https://leetcode-cn.com/articles/least-number-of-unique-integers-after-k-removals/)|Medium|
 |1605|[minimum-number-of-days-to-make-m-bouquets](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets)||[:memo:](https://leetcode-cn.com/articles/minimum-number-of-days-to-make-m-bouquets/)|Medium|
 |1607|[rectangles-area](https://leetcode-cn.com/problems/rectangles-area)|:lock:|[:memo:](https://leetcode-cn.com/articles/rectangles-area/)|Medium|
@@ -1561,6 +1562,9 @@
 |1670|[patients-with-a-condition](https://leetcode-cn.com/problems/patients-with-a-condition)|:lock:|[:memo:](https://leetcode-cn.com/articles/patients-with-a-condition/)|Easy|
 |1671|[the-most-recent-three-orders](https://leetcode-cn.com/problems/the-most-recent-three-orders)|:lock:|[:memo:](https://leetcode-cn.com/articles/the-most-recent-three-orders/)|Medium|
 |1672|[find-the-index-of-the-large-integer](https://leetcode-cn.com/problems/find-the-index-of-the-large-integer)|:lock:|[:memo:](https://leetcode-cn.com/articles/find-the-index-of-the-large-integer/)|Medium|
+|1674|[minimum-operations-to-make-array-equal](https://leetcode-cn.com/problems/minimum-operations-to-make-array-equal)||[:memo:](https://leetcode-cn.com/articles/minimum-operations-to-make-array-equal/)|Medium|
+|1675|[magnetic-force-between-two-balls](https://leetcode-cn.com/problems/magnetic-force-between-two-balls)||[:memo:](https://leetcode-cn.com/articles/magnetic-force-between-two-balls/)|Medium|
+|1676|[minimum-number-of-days-to-eat-n-oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges)||[:memo:](https://leetcode-cn.com/articles/minimum-number-of-days-to-eat-n-oranges/)|Hard|
 |1681|[guess-the-majority-in-a-hidden-array](https://leetcode-cn.com/problems/guess-the-majority-in-a-hidden-array)|:lock:|[:memo:](https://leetcode-cn.com/articles/guess-the-majority-in-a-hidden-array/)|Medium|
 |1686|[fix-product-name-format](https://leetcode-cn.com/problems/fix-product-name-format)|:lock:|[:memo:](https://leetcode-cn.com/articles/fix-product-name-format/)|Easy|
 |1687|[the-most-similar-path-in-a-graph](https://leetcode-cn.com/problems/the-most-similar-path-in-a-graph)|:lock:|[:memo:](https://leetcode-cn.com/articles/the-most-similar-path-in-a-graph/)|Hard|
@@ -1597,14 +1601,14 @@
 |100184|[palindrome-permutation-lcci](https://leetcode-cn.com/problems/palindrome-permutation-lcci)||[:memo:](https://leetcode-cn.com/articles/palindrome-permutation-lcci/)|Easy|
 |100185|[rotate-matrix-lcci](https://leetcode-cn.com/problems/rotate-matrix-lcci)||[:memo:](https://leetcode-cn.com/articles/rotate-matrix-lcci/)|Medium|
 |100186|[zero-matrix-lcci](https://leetcode-cn.com/problems/zero-matrix-lcci)||[:memo:](https://leetcode-cn.com/articles/zero-matrix-lcci/)|Medium|
-|100187|[delete-middle-node-lcci](https://leetcode-cn.com/problems/delete-middle-node-lcci)||[:memo:](https://leetcode-cn.com/articles/delete-middle-node-lcci/)|Easy|
+|100187|[delete-middle-node-lcci](https://leetcode-cn.com/problems/delete-middle-node-lcci)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100187-delete-middle-node-lcci/delete-middle-node-lcci.py)|[:memo:](https://leetcode-cn.com/articles/delete-middle-node-lcci/)|Easy|
 |100188|[sum-lists-lcci](https://leetcode-cn.com/problems/sum-lists-lcci)||[:memo:](https://leetcode-cn.com/articles/sum-lists-lcci/)|Medium|
 |100195|[stack-of-plates-lcci](https://leetcode-cn.com/problems/stack-of-plates-lcci)||[:memo:](https://leetcode-cn.com/articles/stack-of-plates-lcci/)|Medium|
 |100196|[draw-line-lcci](https://leetcode-cn.com/problems/draw-line-lcci)||[:memo:](https://leetcode-cn.com/articles/draw-line-lcci/)|Medium|
 |100197|[three-steps-problem-lcci](https://leetcode-cn.com/problems/three-steps-problem-lcci)||[:memo:](https://leetcode-cn.com/articles/three-steps-problem-lcci/)|Easy|
 |100198|[power-set-lcci](https://leetcode-cn.com/problems/power-set-lcci)||[:memo:](https://leetcode-cn.com/articles/power-set-lcci/)|Medium|
 |100199|[recursive-mulitply-lcci](https://leetcode-cn.com/problems/recursive-mulitply-lcci)||[:memo:](https://leetcode-cn.com/articles/recursive-mulitply-lcci/)|Medium|
-|100200|[bracket-lcci](https://leetcode-cn.com/problems/bracket-lcci)||[:memo:](https://leetcode-cn.com/articles/bracket-lcci/)|Medium|
+|100200|[bracket-lcci](https://leetcode-cn.com/problems/bracket-lcci)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100200-bracket-lcci/bracket-lcci.py)|[:memo:](https://leetcode-cn.com/articles/bracket-lcci/)|Medium|
 |100201|[color-fill-lcci](https://leetcode-cn.com/problems/color-fill-lcci)||[:memo:](https://leetcode-cn.com/articles/color-fill-lcci/)|Easy|
 |100202|[pile-box-lcci](https://leetcode-cn.com/problems/pile-box-lcci)||[:memo:](https://leetcode-cn.com/articles/pile-box-lcci/)|Hard|
 |100203|[bianry-number-to-string-lcci](https://leetcode-cn.com/problems/bianry-number-to-string-lcci)||[:memo:](https://leetcode-cn.com/articles/bianry-number-to-string-lcci/)|Medium|
