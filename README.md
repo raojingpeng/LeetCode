@@ -2,13 +2,13 @@
 
 <p>
 <img src="https://img.shields.io/badge/User-raojingpeng-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-131/1753-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-101-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-136/1753-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-106-yellow.svg?" alt="">
 <img src="https://img.shields.io/badge/Medium-25-green.svg?" alt="">
 <img src="https://img.shields.io/badge/Hard-5-red.svg?" alt="">
 </p>
 
-:heart: Update time:  2020-08-16 16:08:44
+:heart: Update time:  2020-08-17 17:04:56
 
 :heart: Auto created by [leetcode_generate](https://github.com/raojingpeng/LeetCode/blob/master/leetcode_generate.py)
 
@@ -115,7 +115,7 @@
 |97|[interleaving-string](https://leetcode-cn.com/problems/interleaving-string)||[:memo:](https://leetcode-cn.com/articles/interleaving-string/)|Hard|
 |98|[validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/98-validate-binary-search-tree/validate-binary-search-tree.py)|[:memo:](https://leetcode-cn.com/articles/validate-binary-search-tree/)|Medium|
 |99|[recover-binary-search-tree](https://leetcode-cn.com/problems/recover-binary-search-tree)||[:memo:](https://leetcode-cn.com/articles/recover-binary-search-tree/)|Hard|
-|100|[same-tree](https://leetcode-cn.com/problems/same-tree)||[:memo:](https://leetcode-cn.com/articles/same-tree/)|Easy|
+|100|[same-tree](https://leetcode-cn.com/problems/same-tree)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100-same-tree/same-tree.py)|[:memo:](https://leetcode-cn.com/articles/same-tree/)|Easy|
 |101|[symmetric-tree](https://leetcode-cn.com/problems/symmetric-tree)||[:memo:](https://leetcode-cn.com/articles/symmetric-tree/)|Easy|
 |102|[binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)||[:memo:](https://leetcode-cn.com/articles/binary-tree-level-order-traversal/)|Medium|
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)||[:memo:](https://leetcode-cn.com/articles/binary-tree-zigzag-level-order-traversal/)|Medium|
@@ -1641,7 +1641,7 @@
 |100285|[jian-sheng-zi-ii-lcof](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof)||[:memo:](https://leetcode-cn.com/articles/jian-sheng-zi-ii-lcof/)|Medium|
 |100286|[he-bing-liang-ge-pai-xu-de-lian-biao-lcof](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof)||[:memo:](https://leetcode-cn.com/articles/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)|Easy|
 |100287|[shu-de-zi-jie-gou-lcof](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof)||[:memo:](https://leetcode-cn.com/articles/shu-de-zi-jie-gou-lcof/)|Medium|
-|100288|[er-cha-shu-de-jing-xiang-lcof](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof)||[:memo:](https://leetcode-cn.com/articles/er-cha-shu-de-jing-xiang-lcof/)|Easy|
+|100288|[er-cha-shu-de-jing-xiang-lcof](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100288-er-cha-shu-de-jing-xiang-lcof/er-cha-shu-de-jing-xiang-lcof.py)|[:memo:](https://leetcode-cn.com/articles/er-cha-shu-de-jing-xiang-lcof/)|Easy|
 |100289|[dui-cheng-de-er-cha-shu-lcof](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof)||[:memo:](https://leetcode-cn.com/articles/dui-cheng-de-er-cha-shu-lcof/)|Easy|
 |100290|[biao-shi-shu-zhi-de-zi-fu-chuan-lcof](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof)||[:memo:](https://leetcode-cn.com/articles/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)|Medium|
 |100291|[diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)||[:memo:](https://leetcode-cn.com/articles/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|Easy|
@@ -1672,7 +1672,7 @@
 |100316|[di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof)||[:memo:](https://leetcode-cn.com/articles/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)|Easy|
 |100317|[er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)||[:memo:](https://leetcode-cn.com/articles/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)|Medium|
 |100318|[shu-zu-zhong-de-ni-xu-dui-lcof](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof)||[:memo:](https://leetcode-cn.com/articles/shu-zu-zhong-de-ni-xu-dui-lcof/)|Hard|
-|100319|[er-cha-shu-de-shen-du-lcof](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof)||[:memo:](https://leetcode-cn.com/articles/er-cha-shu-de-shen-du-lcof/)|Easy|
+|100319|[er-cha-shu-de-shen-du-lcof](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100319-er-cha-shu-de-shen-du-lcof/er-cha-shu-de-shen-du-lcof.py)|[:memo:](https://leetcode-cn.com/articles/er-cha-shu-de-shen-du-lcof/)|Easy|
 |100320|[shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof)||[:memo:](https://leetcode-cn.com/articles/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)|Medium|
 |100321|[shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof)||[:memo:](https://leetcode-cn.com/articles/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)|Medium|
 |100322|[he-wei-sde-liang-ge-shu-zi-lcof](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof)||[:memo:](https://leetcode-cn.com/articles/he-wei-sde-liang-ge-shu-zi-lcof/)|Easy|
@@ -1695,7 +1695,7 @@
 |100339|[nge-tou-zi-de-dian-shu-lcof](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof)||[:memo:](https://leetcode-cn.com/articles/nge-tou-zi-de-dian-shu-lcof/)|Easy|
 |100340|[ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof)||[:memo:](https://leetcode-cn.com/articles/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)|Medium|
 |100341|[bu-ke-pai-zhong-de-shun-zi-lcof](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof)||[:memo:](https://leetcode-cn.com/articles/bu-ke-pai-zhong-de-shun-zi-lcof/)|Easy|
-|100342|[ping-heng-er-cha-shu-lcof](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof)||[:memo:](https://leetcode-cn.com/articles/ping-heng-er-cha-shu-lcof/)|Easy|
+|100342|[ping-heng-er-cha-shu-lcof](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100342-ping-heng-er-cha-shu-lcof/ping-heng-er-cha-shu-lcof.py)|[:memo:](https://leetcode-cn.com/articles/ping-heng-er-cha-shu-lcof/)|Easy|
 |100343|[yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.py)|[:memo:](https://leetcode-cn.com/articles/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)|Easy|
 |100344|[gu-piao-de-zui-da-li-run-lcof](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof)||[:memo:](https://leetcode-cn.com/articles/gu-piao-de-zui-da-li-run-lcof/)|Medium|
 |100345|[qiu-12n-lcof](https://leetcode-cn.com/problems/qiu-12n-lcof)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100345-qiu-12n-lcof/qiu-12n-lcof.py)|[:memo:](https://leetcode-cn.com/articles/qiu-12n-lcof/)|Medium|
@@ -1758,7 +1758,7 @@
 |1000049|[word-rectangle-lcci](https://leetcode-cn.com/problems/word-rectangle-lcci)||[:memo:](https://leetcode-cn.com/articles/word-rectangle-lcci/)|Hard|
 |1000050|[langtons-ant-lcci](https://leetcode-cn.com/problems/langtons-ant-lcci)||[:memo:](https://leetcode-cn.com/articles/langtons-ant-lcci/)|Medium|
 |1000051|[sparse-similarity-lcci](https://leetcode-cn.com/problems/sparse-similarity-lcci)||[:memo:](https://leetcode-cn.com/articles/sparse-similarity-lcci/)|Hard|
-|1000056|[na-ying-bi](https://leetcode-cn.com/problems/na-ying-bi)||[:memo:](https://leetcode-cn.com/articles/na-ying-bi/)|Easy|
+|1000056|[na-ying-bi](https://leetcode-cn.com/problems/na-ying-bi)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/1000056-na-ying-bi/na-ying-bi.py)|[:memo:](https://leetcode-cn.com/articles/na-ying-bi/)|Easy|
 |1000057|[ju-qing-hong-fa-shi-jian](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian)||[:memo:](https://leetcode-cn.com/articles/ju-qing-hong-fa-shi-jian/)|Medium|
 |1000059|[qie-fen-shu-zu](https://leetcode-cn.com/problems/qie-fen-shu-zu)||[:memo:](https://leetcode-cn.com/articles/qie-fen-shu-zu/)|Hard|
 |1000062|[er-cha-shu-ren-wu-diao-du](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du)||[:memo:](https://leetcode-cn.com/articles/er-cha-shu-ren-wu-diao-du/)|Hard|

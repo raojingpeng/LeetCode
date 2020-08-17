@@ -373,7 +373,8 @@ class LeetCode:
             re.S,
         )
         m1 = pattern.search(r.text)
-        question = m1.groupdict()['question'] if m1 else None
+        question = m1.groupdict()['question'] if m1 else None 
+        question = question if question else '暂无'
         if not question:
             raise Exception(
                 'Can not find question descript in question:{title}'.format(
@@ -526,7 +527,7 @@ def do_job(leetcode):
     leetcode.write_readme()
     print('Leetcode finish write readme')
     leetcode.push_to_github()
-    print('push to github %s', time.asctime())
+    print('push to github %s' % time.asctime())
 
 
 if __name__ == '__main__':
