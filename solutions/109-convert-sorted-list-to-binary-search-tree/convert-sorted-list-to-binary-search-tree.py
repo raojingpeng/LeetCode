@@ -60,18 +60,15 @@ class Solution:
         # 这道题是链表，求中间节点需要使用快慢指针，快指针移动距离是慢指针的两倍
         # 精髓是使用 pre 记录中间节点的前一个节点，并将该节点与中间节点「剪断」，便于计算左节点
         if not head:
-            return head
+            return None
         if not head.next:
             return TreeNode(head.val)
-
         p, q, pre = head, head, None
         while q and q.next:
             pre = p
             p = p.next
             q = q.next.next
-
         pre.next = None
-
         root = TreeNode(p.val)
         root.left = self.sortedListToBST(head)
         root.right = self.sortedListToBST(p.next)
