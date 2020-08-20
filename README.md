@@ -2,13 +2,13 @@
 
 <p>
 <img src="https://img.shields.io/badge/User-raojingpeng-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-137/1753-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-106-yellow.svg?" alt="">
-<img src="https://img.shields.io/badge/Medium-26-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-140/1753-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-108-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-27-green.svg?" alt="">
 <img src="https://img.shields.io/badge/Hard-5-red.svg?" alt="">
 </p>
 
-:heart: Update time:  2020-08-19 17:14:38
+:heart: Update time:  2020-08-20 17:19:35
 
 :heart: Auto created by [leetcode_generate](https://github.com/raojingpeng/LeetCode/blob/master/leetcode_generate.py)
 
@@ -184,7 +184,7 @@
 |166|[fraction-to-recurring-decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal)||[:memo:](https://leetcode-cn.com/articles/fraction-to-recurring-decimal/)|Medium|
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)||[:memo:](https://leetcode-cn.com/articles/two-sum-ii-input-array-is-sorted/)|Easy|
 |168|[excel-sheet-column-title](https://leetcode-cn.com/problems/excel-sheet-column-title)||[:memo:](https://leetcode-cn.com/articles/excel-sheet-column-title/)|Easy|
-|169|[majority-element](https://leetcode-cn.com/problems/majority-element)||[:memo:](https://leetcode-cn.com/articles/majority-element/)|Easy|
+|169|[majority-element](https://leetcode-cn.com/problems/majority-element)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/169-majority-element/majority-element.py)|[:memo:](https://leetcode-cn.com/articles/majority-element/)|Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design)|:lock:|[:memo:](https://leetcode-cn.com/articles/two-sum-iii-data-structure-design/)|Easy|
 |171|[excel-sheet-column-number](https://leetcode-cn.com/problems/excel-sheet-column-number)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/171-excel-sheet-column-number/excel-sheet-column-number.py)|[:memo:](https://leetcode-cn.com/articles/excel-sheet-column-number/)|Easy|
 |172|[factorial-trailing-zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes)||[:memo:](https://leetcode-cn.com/articles/factorial-trailing-zeroes/)|Easy|
@@ -1528,7 +1528,7 @@
 |1632|[number-of-good-ways-to-split-a-string](https://leetcode-cn.com/problems/number-of-good-ways-to-split-a-string)||[:memo:](https://leetcode-cn.com/articles/number-of-good-ways-to-split-a-string/)|Medium|
 |1633|[minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://leetcode-cn.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array)||[:memo:](https://leetcode-cn.com/articles/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)|Hard|
 |1634|[clone-n-ary-tree](https://leetcode-cn.com/problems/clone-n-ary-tree)|:lock:|[:memo:](https://leetcode-cn.com/articles/clone-n-ary-tree/)|Medium|
-|1635|[number-of-good-pairs](https://leetcode-cn.com/problems/number-of-good-pairs)||[:memo:](https://leetcode-cn.com/articles/number-of-good-pairs/)|Easy|
+|1635|[number-of-good-pairs](https://leetcode-cn.com/problems/number-of-good-pairs)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/1635-number-of-good-pairs/number-of-good-pairs.py)|[:memo:](https://leetcode-cn.com/articles/number-of-good-pairs/)|Easy|
 |1636|[number-of-substrings-with-only-1s](https://leetcode-cn.com/problems/number-of-substrings-with-only-1s)||[:memo:](https://leetcode-cn.com/articles/number-of-substrings-with-only-1s/)|Medium|
 |1637|[string-compression-ii](https://leetcode-cn.com/problems/string-compression-ii)||[:memo:](https://leetcode-cn.com/articles/string-compression-ii/)|Hard|
 |1638|[best-position-for-a-service-centre](https://leetcode-cn.com/problems/best-position-for-a-service-centre)||[:memo:](https://leetcode-cn.com/articles/best-position-for-a-service-centre/)|Hard|
@@ -1621,7 +1621,7 @@
 |100240|[magic-index-lcci](https://leetcode-cn.com/problems/magic-index-lcci)||[:memo:](https://leetcode-cn.com/articles/magic-index-lcci/)|Easy|
 |100241|[permutation-i-lcci](https://leetcode-cn.com/problems/permutation-i-lcci)||[:memo:](https://leetcode-cn.com/articles/permutation-i-lcci/)|Medium|
 |100242|[sparse-array-search-lcci](https://leetcode-cn.com/problems/sparse-array-search-lcci)||[:memo:](https://leetcode-cn.com/articles/sparse-array-search-lcci/)|Easy|
-|100258|[swap-numbers-lcci](https://leetcode-cn.com/problems/swap-numbers-lcci)||[:memo:](https://leetcode-cn.com/articles/swap-numbers-lcci/)|Medium|
+|100258|[swap-numbers-lcci](https://leetcode-cn.com/problems/swap-numbers-lcci)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100258-swap-numbers-lcci/swap-numbers-lcci.py)|[:memo:](https://leetcode-cn.com/articles/swap-numbers-lcci/)|Medium|
 |100259|[words-frequency-lcci](https://leetcode-cn.com/problems/words-frequency-lcci)||[:memo:](https://leetcode-cn.com/articles/words-frequency-lcci/)|Medium|
 |100260|[intersection-lcci](https://leetcode-cn.com/problems/intersection-lcci)||[:memo:](https://leetcode-cn.com/articles/intersection-lcci/)|Hard|
 |100261|[tic-tac-toe-lcci](https://leetcode-cn.com/problems/tic-tac-toe-lcci)||[:memo:](https://leetcode-cn.com/articles/tic-tac-toe-lcci/)|Medium|
