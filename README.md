@@ -2,13 +2,13 @@
 
 <p>
 <img src="https://img.shields.io/badge/User-raojingpeng-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-140/1753-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-108-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-141/1754-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-109-yellow.svg?" alt="">
 <img src="https://img.shields.io/badge/Medium-27-green.svg?" alt="">
 <img src="https://img.shields.io/badge/Hard-5-red.svg?" alt="">
 </p>
 
-:heart: Update time:  2020-08-20 17:19:35
+:heart: Update time:  2020-08-21 17:24:32
 
 :heart: Auto created by [leetcode_generate](https://github.com/raojingpeng/LeetCode/blob/master/leetcode_generate.py)
 
@@ -126,7 +126,7 @@
 |108|[convert-sorted-array-to-binary-search-tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.py)|[:memo:](https://leetcode-cn.com/articles/convert-sorted-array-to-binary-search-tree/)|Easy|
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/109-convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.py)|[:memo:](https://leetcode-cn.com/articles/convert-sorted-list-to-binary-search-tree/)|Medium|
 |110|[balanced-binary-tree](https://leetcode-cn.com/problems/balanced-binary-tree)||[:memo:](https://leetcode-cn.com/articles/balanced-binary-tree/)|Easy|
-|111|[minimum-depth-of-binary-tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)||[:memo:](https://leetcode-cn.com/articles/minimum-depth-of-binary-tree/)|Easy|
+|111|[minimum-depth-of-binary-tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py)|[:memo:](https://leetcode-cn.com/articles/minimum-depth-of-binary-tree/)|Easy|
 |112|[path-sum](https://leetcode-cn.com/problems/path-sum)||[:memo:](https://leetcode-cn.com/articles/path-sum/)|Easy|
 |113|[path-sum-ii](https://leetcode-cn.com/problems/path-sum-ii)||[:memo:](https://leetcode-cn.com/articles/path-sum-ii/)|Medium|
 |114|[flatten-binary-tree-to-linked-list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list)||[:memo:](https://leetcode-cn.com/articles/flatten-binary-tree-to-linked-list/)|Medium|
@@ -1569,6 +1569,7 @@
 |1686|[fix-product-name-format](https://leetcode-cn.com/problems/fix-product-name-format)|:lock:|[:memo:](https://leetcode-cn.com/articles/fix-product-name-format/)|Easy|
 |1687|[the-most-similar-path-in-a-graph](https://leetcode-cn.com/problems/the-most-similar-path-in-a-graph)|:lock:|[:memo:](https://leetcode-cn.com/articles/the-most-similar-path-in-a-graph/)|Hard|
 |1688|[the-most-recent-orders-for-each-product](https://leetcode-cn.com/problems/the-most-recent-orders-for-each-product)|:lock:|[:memo:](https://leetcode-cn.com/articles/the-most-recent-orders-for-each-product/)|Medium|
+|1702|[bank-account-summary](https://leetcode-cn.com/problems/bank-account-summary)|:lock:|[:memo:](https://leetcode-cn.com/articles/bank-account-summary/)|Medium|
 |100092|[deep-dark-fraction](https://leetcode-cn.com/problems/deep-dark-fraction)||[:memo:](https://leetcode-cn.com/articles/deep-dark-fraction/)|Easy|
 |100093|[broken-board-dominoes](https://leetcode-cn.com/problems/broken-board-dominoes)||[:memo:](https://leetcode-cn.com/articles/broken-board-dominoes/)|Hard|
 |100094|[coin-bonus](https://leetcode-cn.com/problems/coin-bonus)||[:memo:](https://leetcode-cn.com/articles/coin-bonus/)|Hard|
