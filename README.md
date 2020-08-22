@@ -2,13 +2,13 @@
 
 <p>
 <img src="https://img.shields.io/badge/User-raojingpeng-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-141/1754-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-109-yellow.svg?" alt="">
-<img src="https://img.shields.io/badge/Medium-27-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-144/1759-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-110-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-29-green.svg?" alt="">
 <img src="https://img.shields.io/badge/Hard-5-red.svg?" alt="">
 </p>
 
-:heart: Update time:  2020-08-21 17:24:32
+:heart: Update time:  2020-08-22 17:29:42
 
 :heart: Auto created by [leetcode_generate](https://github.com/raojingpeng/LeetCode/blob/master/leetcode_generate.py)
 
@@ -275,7 +275,7 @@
 |257|[binary-tree-paths](https://leetcode-cn.com/problems/binary-tree-paths)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/257-binary-tree-paths/binary-tree-paths.py)|[:memo:](https://leetcode-cn.com/articles/binary-tree-paths/)|Easy|
 |258|[add-digits](https://leetcode-cn.com/problems/add-digits)||[:memo:](https://leetcode-cn.com/articles/add-digits/)|Easy|
 |259|[3sum-smaller](https://leetcode-cn.com/problems/3sum-smaller)|:lock:|[:memo:](https://leetcode-cn.com/articles/3sum-smaller/)|Medium|
-|260|[single-number-iii](https://leetcode-cn.com/problems/single-number-iii)||[:memo:](https://leetcode-cn.com/articles/single-number-iii/)|Medium|
+|260|[single-number-iii](https://leetcode-cn.com/problems/single-number-iii)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/260-single-number-iii/single-number-iii.py)|[:memo:](https://leetcode-cn.com/articles/single-number-iii/)|Medium|
 |261|[graph-valid-tree](https://leetcode-cn.com/problems/graph-valid-tree)|:lock:|[:memo:](https://leetcode-cn.com/articles/graph-valid-tree/)|Medium|
 |262|[trips-and-users](https://leetcode-cn.com/problems/trips-and-users)||[:memo:](https://leetcode-cn.com/articles/trips-and-users/)|Hard|
 |263|[ugly-number](https://leetcode-cn.com/problems/ugly-number)||[:memo:](https://leetcode-cn.com/articles/ugly-number/)|Easy|
@@ -1482,7 +1482,7 @@
 |1569|[max-dot-product-of-two-subsequences](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences)||[:memo:](https://leetcode-cn.com/articles/max-dot-product-of-two-subsequences/)|Hard|
 |1570|[final-prices-with-a-special-discount-in-a-shop](https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop)||[:memo:](https://leetcode-cn.com/articles/final-prices-with-a-special-discount-in-a-shop/)|Easy|
 |1571|[allocate-mailboxes](https://leetcode-cn.com/problems/allocate-mailboxes)||[:memo:](https://leetcode-cn.com/articles/allocate-mailboxes/)|Hard|
-|1572|[subrectangle-queries](https://leetcode-cn.com/problems/subrectangle-queries)||[:memo:](https://leetcode-cn.com/articles/subrectangle-queries/)|Medium|
+|1572|[subrectangle-queries](https://leetcode-cn.com/problems/subrectangle-queries)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/1572-subrectangle-queries/subrectangle-queries.py)|[:memo:](https://leetcode-cn.com/articles/subrectangle-queries/)|Medium|
 |1573|[find-two-non-overlapping-sub-arrays-each-with-target-sum](https://leetcode-cn.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)||[:memo:](https://leetcode-cn.com/articles/find-two-non-overlapping-sub-arrays-each-with-target-sum/)|Medium|
 |1574|[maximum-product-of-two-elements-in-an-array](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array)||[:memo:](https://leetcode-cn.com/articles/maximum-product-of-two-elements-in-an-array/)|Easy|
 |1575|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode-cn.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)||[:memo:](https://leetcode-cn.com/articles/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|Medium|
@@ -1553,6 +1553,10 @@
 |1657|[find-the-winner-of-an-array-game](https://leetcode-cn.com/problems/find-the-winner-of-an-array-game)||[:memo:](https://leetcode-cn.com/articles/find-the-winner-of-an-array-game/)|Medium|
 |1658|[minimum-swaps-to-arrange-a-binary-grid](https://leetcode-cn.com/problems/minimum-swaps-to-arrange-a-binary-grid)||[:memo:](https://leetcode-cn.com/articles/minimum-swaps-to-arrange-a-binary-grid/)|Medium|
 |1659|[get-the-maximum-score](https://leetcode-cn.com/problems/get-the-maximum-score)||[:memo:](https://leetcode-cn.com/articles/get-the-maximum-score/)|Hard|
+|1660|[thousand-separator](https://leetcode-cn.com/problems/thousand-separator)||[:memo:](https://leetcode-cn.com/articles/thousand-separator/)|Easy|
+|1661|[minimum-number-of-vertices-to-reach-all-nodes](https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes)||[:memo:](https://leetcode-cn.com/articles/minimum-number-of-vertices-to-reach-all-nodes/)|Medium|
+|1662|[minimum-numbers-of-function-calls-to-make-target-array](https://leetcode-cn.com/problems/minimum-numbers-of-function-calls-to-make-target-array)||[:memo:](https://leetcode-cn.com/articles/minimum-numbers-of-function-calls-to-make-target-array/)|Medium|
+|1663|[detect-cycles-in-2d-grid](https://leetcode-cn.com/problems/detect-cycles-in-2d-grid)||[:memo:](https://leetcode-cn.com/articles/detect-cycles-in-2d-grid/)|Hard|
 |1664|[find-users-with-valid-e-mails](https://leetcode-cn.com/problems/find-users-with-valid-e-mails)|:lock:|[:memo:](https://leetcode-cn.com/articles/find-users-with-valid-e-mails/)|Easy|
 |1665|[diameter-of-n-ary-tree](https://leetcode-cn.com/problems/diameter-of-n-ary-tree)|:lock:|[:memo:](https://leetcode-cn.com/articles/diameter-of-n-ary-tree/)|Medium|
 |1666|[make-the-string-great](https://leetcode-cn.com/problems/make-the-string-great)||[:memo:](https://leetcode-cn.com/articles/make-the-string-great/)|Easy|
@@ -1569,13 +1573,14 @@
 |1686|[fix-product-name-format](https://leetcode-cn.com/problems/fix-product-name-format)|:lock:|[:memo:](https://leetcode-cn.com/articles/fix-product-name-format/)|Easy|
 |1687|[the-most-similar-path-in-a-graph](https://leetcode-cn.com/problems/the-most-similar-path-in-a-graph)|:lock:|[:memo:](https://leetcode-cn.com/articles/the-most-similar-path-in-a-graph/)|Hard|
 |1688|[the-most-recent-orders-for-each-product](https://leetcode-cn.com/problems/the-most-recent-orders-for-each-product)|:lock:|[:memo:](https://leetcode-cn.com/articles/the-most-recent-orders-for-each-product/)|Medium|
+|1697|[strings-differ-by-one-character](https://leetcode-cn.com/problems/strings-differ-by-one-character)|:lock:|[:memo:](https://leetcode-cn.com/articles/strings-differ-by-one-character/)|Medium|
 |1702|[bank-account-summary](https://leetcode-cn.com/problems/bank-account-summary)|:lock:|[:memo:](https://leetcode-cn.com/articles/bank-account-summary/)|Medium|
 |100092|[deep-dark-fraction](https://leetcode-cn.com/problems/deep-dark-fraction)||[:memo:](https://leetcode-cn.com/articles/deep-dark-fraction/)|Easy|
 |100093|[broken-board-dominoes](https://leetcode-cn.com/problems/broken-board-dominoes)||[:memo:](https://leetcode-cn.com/articles/broken-board-dominoes/)|Hard|
 |100094|[coin-bonus](https://leetcode-cn.com/problems/coin-bonus)||[:memo:](https://leetcode-cn.com/articles/coin-bonus/)|Hard|
 |100096|[programmable-robot](https://leetcode-cn.com/problems/programmable-robot)||[:memo:](https://leetcode-cn.com/articles/programmable-robot/)|Medium|
 |100107|[guess-numbers](https://leetcode-cn.com/problems/guess-numbers)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100107-guess-numbers/guess-numbers.py)|[:memo:](https://leetcode-cn.com/articles/guess-numbers/)|Easy|
-|100158|[is-unique-lcci](https://leetcode-cn.com/problems/is-unique-lcci)||[:memo:](https://leetcode-cn.com/articles/is-unique-lcci/)|Easy|
+|100158|[is-unique-lcci](https://leetcode-cn.com/problems/is-unique-lcci)|[Python3](https://github.com/raojingpeng/LeetCode/blob/master/solutions/100158-is-unique-lcci/is-unique-lcci.py)|[:memo:](https://leetcode-cn.com/articles/is-unique-lcci/)|Easy|
 |100159|[check-permutation-lcci](https://leetcode-cn.com/problems/check-permutation-lcci)||[:memo:](https://leetcode-cn.com/articles/check-permutation-lcci/)|Easy|
 |100160|[string-to-url-lcci](https://leetcode-cn.com/problems/string-to-url-lcci)||[:memo:](https://leetcode-cn.com/articles/string-to-url-lcci/)|Easy|
 |100161|[compress-string-lcci](https://leetcode-cn.com/problems/compress-string-lcci)||[:memo:](https://leetcode-cn.com/articles/compress-string-lcci/)|Easy|

@@ -21,7 +21,7 @@ class Solution:
         # numbers[0], numbers[1] = numbers[1], numbers[0]
         # return numbers
 
-        # 异或运算满足交换律 结合律 a^b=a+b a^b^b = a 0^a=a a^a=0
+        # 异或运算满足交换律 结合律 a^b=a+b a^b^b=a 0^a=a a^a=0
         # numbers[0] ^= numbers[1] # numbers[0] = numbers[0] + numbers[1]
         # numbers[1] ^= numbers[0] # numbers[1] = numbers[0] + numbers[1] + numbers[1] = numbers[0]
         # numbers[0] ^= numbers[1] # numbers[0] = numbers[0] + numbers[0] + numbers[1] = numbers[1]
