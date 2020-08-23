@@ -2,13 +2,13 @@
 
 <p>
 <img src="https://img.shields.io/badge/User-raojingpeng-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-144/1759-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-144/1763-blue.svg?" alt="">
 <img src="https://img.shields.io/badge/Easy-110-yellow.svg?" alt="">
 <img src="https://img.shields.io/badge/Medium-29-green.svg?" alt="">
 <img src="https://img.shields.io/badge/Hard-5-red.svg?" alt="">
 </p>
 
-:heart: Update time:  2020-08-22 17:29:42
+:heart: Update time:  2020-08-23 17:34:50
 
 :heart: Auto created by [leetcode_generate](https://github.com/raojingpeng/LeetCode/blob/master/leetcode_generate.py)
 
@@ -1570,6 +1570,10 @@
 |1675|[magnetic-force-between-two-balls](https://leetcode-cn.com/problems/magnetic-force-between-two-balls)||[:memo:](https://leetcode-cn.com/articles/magnetic-force-between-two-balls/)|Medium|
 |1676|[minimum-number-of-days-to-eat-n-oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges)||[:memo:](https://leetcode-cn.com/articles/minimum-number-of-days-to-eat-n-oranges/)|Hard|
 |1681|[guess-the-majority-in-a-hidden-array](https://leetcode-cn.com/problems/guess-the-majority-in-a-hidden-array)|:lock:|[:memo:](https://leetcode-cn.com/articles/guess-the-majority-in-a-hidden-array/)|Medium|
+|1682|[most-visited-sector-in-a-circular-track](https://leetcode-cn.com/problems/most-visited-sector-in-a-circular-track)||[:memo:](https://leetcode-cn.com/articles/most-visited-sector-in-a-circular-track/)|Easy|
+|1683|[maximum-number-of-coins-you-can-get](https://leetcode-cn.com/problems/maximum-number-of-coins-you-can-get)||[:memo:](https://leetcode-cn.com/articles/maximum-number-of-coins-you-can-get/)|Medium|
+|1684|[find-latest-group-of-size-m](https://leetcode-cn.com/problems/find-latest-group-of-size-m)||[:memo:](https://leetcode-cn.com/articles/find-latest-group-of-size-m/)|Medium|
+|1685|[stone-game-v](https://leetcode-cn.com/problems/stone-game-v)||[:memo:](https://leetcode-cn.com/articles/stone-game-v/)|Hard|
 |1686|[fix-product-name-format](https://leetcode-cn.com/problems/fix-product-name-format)|:lock:|[:memo:](https://leetcode-cn.com/articles/fix-product-name-format/)|Easy|
 |1687|[the-most-similar-path-in-a-graph](https://leetcode-cn.com/problems/the-most-similar-path-in-a-graph)|:lock:|[:memo:](https://leetcode-cn.com/articles/the-most-similar-path-in-a-graph/)|Hard|
 |1688|[the-most-recent-orders-for-each-product](https://leetcode-cn.com/problems/the-most-recent-orders-for-each-product)|:lock:|[:memo:](https://leetcode-cn.com/articles/the-most-recent-orders-for-each-product/)|Medium|

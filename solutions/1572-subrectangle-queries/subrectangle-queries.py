@@ -85,17 +85,25 @@ class SubrectangleQueries:
 
     def __init__(self, rectangle: List[List[int]]):
         self.rectangle = rectangle
+        # 空间换时间
+        self.history = []
 
     def updateSubrectangle(self, row1: int, col1: int, row2: int, col2: int, newValue: int) -> None:
-        for row in self.rectangle[row1:row2 + 1]:
-            for index in range(col1, col2 + 1):
-                row[index] = newValue
+        # for row in self.rectangle[row1:row2 + 1]:
+        #     for index in range(col1, col2 + 1):
+        #         row[index] = newValue
+        self.history.append((row1, col1, row2, col2, newValue))
 
     def getValue(self, row: int, col: int) -> int:
-        return self.rectangle[row][col]
+        ans = self.rectangle[row][col]
+        for index in range(len(self.history)-1, -1, -1):
+            row1, col1, row2, col2, newValue = self.history[index]
+            if row1 <= row <= row2 and col1 <= col <= col2:
+                ans = newValue
+                break
+        return ans 
 
 # Your SubrectangleQueries object will be instantiated and called as such:
 # obj = SubrectangleQueries(rectangle)
 # obj.updateSubrectangle(row1,col1,row2,col2,newValue)
 # param_2 = obj.getValue(row,col)
-
